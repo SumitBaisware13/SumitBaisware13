@@ -13,7 +13,7 @@ I'm a data scientist with a passion for uncovering insights from complex dataset
 - **Machine Learning**: scikit-learn
 - **Machine Learning Models**: Linear & Logistic Regression, Naive Bayes, Decision Trees, Random Forest, AdaBoost, XGBoost
 - **Deep Learning Frameworks**: TensorFlow, Keras
-- **APIs**: Hugging Face API
+- **Generative AI**: GPT, BERT, T5, OpenAI API, Hugging Face Transformers
 - **Web Frameworks**: Flask,FastApi
 - **Recommender Systems**: Collaborative Filtering, Content-Based Filtering, Hybrid Recommender Systems
 - **Advanced Models**: RAG,BERT,YOLO
